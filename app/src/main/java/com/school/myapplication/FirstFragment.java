@@ -23,6 +23,7 @@ public class FirstFragment extends Fragment {
 
         binding = FragmentFirstBinding.inflate(inflater, container, false);
         System.out.println("first commit feature_branch");
+        System.out.println("first commit feature_branch1");
         System.out.println("first commit feature_branch_manually update");
         return binding.getRoot();
 
