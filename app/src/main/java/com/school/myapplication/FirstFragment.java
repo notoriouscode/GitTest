@@ -22,7 +22,7 @@ public class FirstFragment extends Fragment {
     ) {
 
         binding = FragmentFirstBinding.inflate(inflater, container, false);
-        System.out.println("first committ");
+        System.out.println("first committ1");
         return binding.getRoot();
 
     }
